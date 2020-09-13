@@ -1,2 +1,2 @@
 # social-arena
-Chatring unlimited 
+Chatting unlimited 
